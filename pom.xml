@@ -70,7 +70,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/ETERNA/resty-gwt</url>
+            <url>https://maven.pkg.github.com/ETERNA-earkiv/resty-gwt</url>
         </repository>
     </distributionManagement>
 
